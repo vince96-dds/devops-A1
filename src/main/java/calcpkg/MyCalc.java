@@ -51,7 +51,7 @@ public class MyCalc {
 		System.out.println("Diff is:"+pb.diff(20,10));
 		System.out.println("Mult is:"+pb.Mult(20,10));
 		System.out.println("Div is:"+pb.Div(20,10));
-		System.out.println("Exponent is: "+pb.Exponential(20, 10))
+		System.out.println("Exponent is: "+pb.Exponential(20, 10));
 		pb.greeting();
 	}
 
